@@ -1,1 +1,1 @@
-# fqcdn.github.io
+# fqcdn
