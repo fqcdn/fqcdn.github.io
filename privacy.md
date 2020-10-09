@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: April 15, 2020
+Last updated: October 9, 2020
 
 We are committed to protecting your privacy. This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -34,7 +34,9 @@ For the purposes of this Privacy Policy:
 
 ### Usage Data
 
-We want to inform you that whenever you use our Service, we and our Service Providers may collect information that your browser or our apps send to us that is called Usage Data. Usage Data may include information such as your computer’s Internet Protocol ("IP") address, browser version, pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
+We want to inform you that whenever you use our Service, we and our Service Providers may collect information that your browser or our apps send to us that is called Usage Data. Usage Data may include information such as your computer’s Internet Protocol ("IP") address, browser version, pages of our Service that you visit, the time and date of your visit, and other statistics.
+
+Specific to our "Fair VPN" app, we do NOT collect data of VPN usage, including no logging of your VPN configurations or network traffic. Note that the VPN feature in this app is a VPN client that conforms with several VPN protocols, and we don't operate VPN servers or provide VPN services by ourselves. If you use VPN servers from other providers, we strongly advise you to review their terms of service and privacy policy. We have no control over, and assume no responsibility for the privacy policies or practices of any third party VPN service providers.
 
 ### Use of Collected Data
 
