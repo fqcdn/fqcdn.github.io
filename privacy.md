@@ -38,6 +38,8 @@ We want to inform you that whenever you use our Service, we and our Service Prov
 
 Specific to our "Fair VPN" app, we do NOT collect data of VPN usage, including no logging of your VPN configurations or network traffic. Note that the VPN feature in this app is a VPN client that conforms with several VPN protocols, and we don't operate VPN servers or provide VPN services by ourselves. If you use VPN servers from other providers, we strongly advise you to review their terms of service and privacy policy. We have no control over, and assume no responsibility for the privacy policies or practices of any third party VPN service providers.
 
+Specific to our "Ultrasurf VPN" app, we do NOT collect data of VPN usage, including no logging of your VPN network traffic in the app or on the servers.
+
 ### Use of Collected Data
 
 The Company may use the collected data to provide and maintain our Service, including to monitor the usage of our Service.
